@@ -9,7 +9,7 @@ Consistency for 100 days
 Share knowledge with the community
 
 🚀 My DSA Journey
-Hi 👋 I’m Deepak, a Frontend Developer.
+Hi 👋
 I’ve decided to dedicate 2 hour daily to learn Data Structures & Algorithms (DSA) in JavaScript.
 
 🛠️ Tech Stack
